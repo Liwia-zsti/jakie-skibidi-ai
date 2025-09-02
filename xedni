@@ -8,6 +8,11 @@
 <body>
     <img src="https://copilot.microsoft.com/th/id/BCO.3829febb-3c8e-4a8e-969e-c06efea54d10.png">
     <div id="wady"></div>
+        <li>
+            <ol>
+                
+            </ol>
+        </li>
     <div id="zalety"></div>
     <script src="js.js"></script>
 </body>

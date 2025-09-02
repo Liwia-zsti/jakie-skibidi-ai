@@ -6,7 +6,9 @@
     <title>Ai</title>
 </head>
 <body>
-    <img src="https://copilot.microsoft.com/th/id/BCO.3829febb-3c8e-4a8e-969e-c06efea54d10.png">
+    <div id="zdj">
+        <img src="https://copilot.microsoft.com/th/id/BCO.3829febb-3c8e-4a8e-969e-c06efea54d10.png">
+    </div>
     <div id="wady"></div>
     <div id="zalety"></div>
     <script src="js.js"></script>

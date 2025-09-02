@@ -6,17 +6,16 @@
     <title>Ai</title>
 </head>
 <body>
+    <h1>AI:</h1>
+    <div id="wady"></div>
+    <h2>Ai nie ma wad</h2>
+    <div id="zalety"></div>
+    <h2>Ai nie ma zalet</h2>
     <div id="img">
         <img src="https://copilot.microsoft.com/th/id/BCO.3829febb-3c8e-4a8e-969e-c06efea54d10.png">
     </div>
-    <div id="wady"></div>
-        <li>
-            <ol>
-                <p> "AI nie ma wad" </p>
-            </ol>
-        </li>
-    <div id="zalety"></div>
     <script src="js.js"></script>
 </body>
 </html>
+
 
